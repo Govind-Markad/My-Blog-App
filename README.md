@@ -22,9 +22,7 @@ authorization mechanisms to enhance application security.
 CRUD operations, and manage data persistence.
 - Designed and implemented RESTful APIs following best
 practices and industry standards.
-- Collaborated with cross-functional teams to gather
-requirements, discuss technical solutions, and deliver highquality software.
-Handling exceptions in project
+- Handling exceptions in project.
 - Conducted thorough testing using Postman to ensure API
 functionality and data integrity.
 - Utilized SQL and MySQL Workbench for database management
@@ -36,6 +34,5 @@ efficient coding and debugging.
 - Performing pagination after reading data from database.
 - Performing OneToOne, OneToMany, ManyToMany Mapping.
 - Understanding of ER diagrams and based on then doing
-implementation of code. Fixing defects communicated by
-testers.
+implementation of code. 
 
